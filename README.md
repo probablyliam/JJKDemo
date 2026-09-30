@@ -44,7 +44,7 @@ This repository contains the project's own code, scenes, prefabs, materials and 
 | --- | --- | --- |
 | Toon Shaders Pro | Unity Asset Store | Cel shading on characters and environment (the editor tools reference it directly) |
 | Free Quick Effects Vol. 1 (Gabriel Aguiar Prod.) | Unity Asset Store | Particle effects |
-| Player character model | Fan-made | The Gojo model |
+| Player character model | Fan-made Source engine model, credited to mrspyde | The Gojo model |
 | Characters and animations | [Mixamo](https://www.mixamo.com) | Locomotion, cast poses and the target dummies |
 
 Import them into `Assets/`, then open `Assets/_Project/Scenes/CursedEnergyTrial.unity`. Fonts and images are stored with [Git LFS](https://git-lfs.com), so install it before cloning.
