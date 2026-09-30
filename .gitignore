@@ -105,3 +105,26 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# --- Project-specific -------------------------------------------------------
+
+# Third-party assets whose licenses don't allow redistribution in a public
+# repo. Import them locally; see README.md.
+/[Aa]ssets/Toon Shaders Pro/
+/[Aa]ssets/Toon Shaders Pro.meta
+/[Aa]ssets/GabrielAguiarProductions/
+/[Aa]ssets/GabrielAguiarProductions.meta
+/[Aa]ssets/Characters/
+/[Aa]ssets/Characters.meta
+
+# Large source texture; CC0 from ambientCG, re-download locally.
+/[Aa]ssets/_Project/Textures/AmbientCG/Skybox.exr
+/[Aa]ssets/_Project/Textures/AmbientCG/Skybox.exr.meta
+
+# Editor screenshots, crash-recovery scenes, and local tooling config.
+/[Aa]ssets/Screenshots/
+/[Aa]ssets/Screenshots.meta
+/[Aa]ssets/_Recovery/
+/[Aa]ssets/_Recovery.meta
+.claude/
+AGENTS.md

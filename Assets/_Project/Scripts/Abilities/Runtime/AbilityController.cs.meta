@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9950c8e38b6198042995038059275c08
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - redAbility: {instanceID: 0}
+  - blueAbility: {instanceID: 0}
+  - purpleAbility: {instanceID: 0}
+  - physicsService: {instanceID: 0}
+  - redDebugMaterial: {instanceID: 0}
+  - blueDebugMaterial: {instanceID: 0}
+  - purpleDebugMaterial: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

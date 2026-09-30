@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 517376b3f3c452c42981f1ff09eab385, type: 3}
+  m_Name: Purple_Ability
+  m_EditorClassIdentifier: Assembly-CSharp::JJKDemo.Combat.Abilities.Data.AbilityDefinition
+  abilityId: purple
+  displayName: Purple
+  channel: 3
+  effectMode: 2
+  debugColor: {r: 0.65, g: 0.16, b: 1, a: 1}
+  cooldown: 0
+  projectileSpeed: 30
+  projectileLifetime: 10
+  sphereProfile: {fileID: 11400000, guid: 35e4634c54fab334fa5c79a08331d223, type: 2}
+  physicsProfile: {fileID: 11400000, guid: 38eb5f682e422f74a80075ec359a5222, type: 2}
+  feedbackProfile: {fileID: 11400000, guid: a393c5d966478394dbeaea31d6150ad3, type: 2}
+  visualPrefab: {fileID: 9025710636076645184, guid: cc4abf812a6923a49ac92249b7748b4f, type: 3}
