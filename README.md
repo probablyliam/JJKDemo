@@ -46,15 +46,14 @@ This repository contains the project's own code, scenes, prefabs, materials and 
 | Free Quick Effects Vol. 1 (Gabriel Aguiar Prod.) | Unity Asset Store | Particle effects |
 | Player character model | Fan-made | The Gojo model |
 | Characters and animations | [Mixamo](https://www.mixamo.com) | Locomotion, cast poses and the target dummies |
-| Skybox HDRI | [ambientCG](https://ambientcg.com) (CC0) | Sky lighting |
 
-Import them into `Assets/`, then open `Assets/_Project/Scenes/CursedEnergyTrial.unity`. Textures and fonts are stored with [Git LFS](https://git-lfs.com), so install it before cloning.
+Import them into `Assets/`, then open `Assets/_Project/Scenes/CursedEnergyTrial.unity`. Fonts and images are stored with [Git LFS](https://git-lfs.com), so install it before cloning.
 
 ## Credits and license
 
-- [EzySlice](https://github.com/DavidArayan/ezy-slice) by David Arayan, MIT License (`Assets/Plugins/EzySlice/LICENSE`).
-- [NoiseShader](https://github.com/keijiro/NoiseShader) by Keijiro Takahashi, based on webgl-noise (MIT) (`Assets/_Project/Materials/NoiseShader`).
-- Surface textures from [ambientCG](https://ambientcg.com), CC0.
-- Fonts from Google Fonts, under the SIL Open Font License or Apache 2.0.
+- Noise functions from [NoiseShader](https://github.com/keijiro/NoiseShader) by Keijiro Takahashi (MIT).
+- Fonts: Bebas Neue, Oswald, Rajdhani, Russo One and Teko, under the SIL Open Font License 1.1.
 
-This is a non-commercial fan project and is not affiliated with or endorsed by the creators or rights holders of *Jujutsu Kaisen*. The source is published for reference. © Liam Maiorino, all rights reserved.
+Full license texts are in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+
+This is a non-commercial fan project. *Jujutsu Kaisen* and its characters are © Gege Akutami / Shueisha; this project is not affiliated with or endorsed by them or any other rights holder. The source is published for reference. © Liam Maiorino, all rights reserved.

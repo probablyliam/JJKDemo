@@ -117,9 +117,6 @@ InitTestScene*.unity*
 /[Aa]ssets/Characters/
 /[Aa]ssets/Characters.meta
 
-# Large source texture; CC0 from ambientCG, re-download locally.
-/[Aa]ssets/_Project/Textures/AmbientCG/Skybox.exr
-/[Aa]ssets/_Project/Textures/AmbientCG/Skybox.exr.meta
 
 # Editor screenshots, crash-recovery scenes, and local tooling config.
 /[Aa]ssets/Screenshots/
